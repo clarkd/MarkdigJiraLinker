@@ -1,3 +1,8 @@
+# Deprecated
+This extension has been merged into the core of [markdig](https://github.com/lunet-io/markdig). Thanks @xoofx!
+
+----------------
+
 # Markdig Jira Linker
 This is a Markdig extension that automatically add links to JIRA issue items within your markdown, e.g. XX-1234
 
